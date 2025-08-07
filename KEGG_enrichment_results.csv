@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+NA,NA,"hsa04382","Cornified envelope formation","13/69","217/9434",0.0599078341013825,8.19087691177453,9.19840441580088,4.37172209996969e-09,9.09318196793695e-07,8.00715416204974e-07,"6699/6273/1308/1288/6698/84648/3861/1830/3872/3853/3854/286887/3918",13
